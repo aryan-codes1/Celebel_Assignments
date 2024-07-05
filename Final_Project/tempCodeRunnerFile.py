@@ -1,0 +1,5 @@
+plt.scatter(y_test, y_pred)
+# plt.xlabel('Actual Grades')
+# plt.ylabel('Predicted Grades')
+# plt.title('Actual vs Predicted Grades')
+# plt.show()
